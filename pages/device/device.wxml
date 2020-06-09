@@ -7,4 +7,5 @@
   <text style="font-size:medium;margin-top:10px">接收内容：</text>
   <input class="input" disabled value="{{receiveText}}" maxlength="20"/>
   <button type="primary" class="button" bindtap="Send">发送</button>
+  <button type="primary" class="buttonReceive" bindtap="Receive">开始接收</button>
 </view>

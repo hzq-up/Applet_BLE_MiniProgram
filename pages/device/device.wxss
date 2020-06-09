@@ -16,3 +16,8 @@ page {
   width: 690rpx;
   bottom: 30rpx;
 }
+.buttonReceive {
+  position: fixed;
+  width: 690rpx;
+  bottom: 150rpx;
+}
